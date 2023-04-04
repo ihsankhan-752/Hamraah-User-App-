@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "153191923023",
+    "firebase_url": "https://hamraah-driver-app-default-rtdb.firebaseio.com",
+    "project_id": "hamraah-driver-app",
+    "storage_bucket": "hamraah-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153191923023:android:2bcad543d89dea762d593a",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153191923023-ug0bsvkm7va02ii1rpjo91qafucjdhvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NUNSVL5Ly9PaCz02qVm-bjb34JrJNhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153191923023-ug0bsvkm7va02ii1rpjo91qafucjdhvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153191923023:android:e16740fd8c71680f2d593a",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153191923023-ug0bsvkm7va02ii1rpjo91qafucjdhvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NUNSVL5Ly9PaCz02qVm-bjb34JrJNhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153191923023-ug0bsvkm7va02ii1rpjo91qafucjdhvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
